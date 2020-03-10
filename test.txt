@@ -4,3 +4,10 @@ MASTER COMMIT 2
 MASTER COMMIT 3
 FIRST COMMIT
 SECOND COMMIT
+
+
+test-branch2-commit1
+
+test-branch2-commit2
+
+test-branch2-commit3
