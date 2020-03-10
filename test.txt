@@ -7,3 +7,5 @@ SECOND COMMIT
 
 
 test-branch2-commit1
+
+test-branch2-commit2
